@@ -112,7 +112,7 @@ h6 {
 }
 
 .li-space-lg li {
-	margin-bottom: 0.5rem;
+	margin-bottom: 1.5rem;
 }
 
 a {
@@ -1193,8 +1193,8 @@ select {
 
 	/* Contact */
 	.form-1 .list-unstyled li {
-		display: inline-block;
-		margin-right: 1rem;
+		display: block;
+		margin-right: 0rem;
 	}
 	/* end of contact */
 
