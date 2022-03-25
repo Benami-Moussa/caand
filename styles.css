@@ -977,7 +977,7 @@ select {
 /*******************/
 .form-1 {
 	padding-top: 9.25rem;
-	padding-bottom: 8.5rem;
+	padding-bottom: 7rem;
 	text-align: center;
 }
 
@@ -1008,7 +1008,7 @@ select {
 /******************/
 .footer {
 	position: relative;
-	padding-top: 8.75rem;
+	padding-top: 0rem;
 	padding-bottom: 7.5rem;
 	text-align: center;
 }
