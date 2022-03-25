@@ -1522,9 +1522,9 @@ select {
 	
 	.header .image-container img {
 		position: absolute;
-		top: -80px;
+		top: -204px;
 		left: 10px;
-		width: 840px;
+		width: 808px;
 		max-width: none;
 	}
 	/* end of header */
