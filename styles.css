@@ -964,11 +964,17 @@ select {
 .basic-2 h4 {
 	margin-bottom: 2rem;
 	color: #ffffff;
+ 	font-weight: 300;
+        font-size: 3.5rem;
+        line-height: 4rem;
 }
 
 .basic-2 .p-large {
 	margin-bottom: 0;
-	color: #ffffff;
+	color: #000000;
+	font-weight: bolder;
+        font-size: 5.5rem;
+        line-height: 4rem;
 }
 
 
