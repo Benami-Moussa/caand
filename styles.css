@@ -474,13 +474,13 @@ select {
 }
 
 .navbar .btn-solid-sm {
-	border-color: #6168ff;
-	background-color: #6168ff;
+	border-color: #00d663;
+	background-color: #00d663;
 }
 
 .navbar .btn-solid-sm:hover {
-	background-color: transparent;
-	color: #6168ff;
+	background-color: #00d663;
+	color: #000000;
 }
 
 
