@@ -195,9 +195,9 @@ a:hover {
 .btn-solid-sm {
 	display: inline-block;
 	padding: 1rem 1.5rem 1rem 1.5rem;
-	border: 1px solid #3c37f1;
+	border: 1px solid #128c7e;
 	border-radius: 30px;
-	background-color: #3c37f1;
+	background-color: #128c7e;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -207,8 +207,8 @@ a:hover {
 }
 
 .btn-solid-sm:hover {
-	background-color: transparent;
-	color: #3c37f1; /* needs to stay here because of the color property of a tag */
+	background-color: #77d7c8;
+	color: #000000; /* needs to stay here because of the color property of a tag */
 	text-decoration: none;
 }
 
