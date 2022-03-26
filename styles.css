@@ -719,11 +719,11 @@ select {
 
 .counter .counter-cell {
 	margin-bottom: 3rem;
-	color: #6168ff;
+	color: #686fff;
 }
 
 .counter .counter-cell.red {
-	color: #3c37f1;
+	color: #ff5574;
 }
 
 .counter .purecounter {
@@ -734,7 +734,7 @@ select {
 }
 
 .counter .purecounter:after {
-    content: "+";
+    content: "%";
 	margin-left: 0.5rem;
 }
 
