@@ -895,7 +895,7 @@ select {
 
 .cards-2 .card {
 	margin-bottom: 5rem;
-	padding: 4rem 1rem;
+	padding: 2rem 1rem;
 	border: 1px ;
 	border-radius: 10px;
 	background-color: #6168ff;
@@ -912,7 +912,6 @@ select {
 
 .cards-2 .card-body {
 	padding: 0;
-	padding-top: 0.25rem;
 }
 
 .cards-2 .card-title {
