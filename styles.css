@@ -912,10 +912,12 @@ select {
 
 .cards-2 .card-body {
 	padding: 0;
+	padding-top: 0.25rem;
 }
 
 .cards-2 .card-title {
 	margin-bottom: 2rem;
+	margin-top: 2rem;
 }
 
 .cards-2 .card-title .decoration-lines {
@@ -943,6 +945,7 @@ select {
 
 .cards-2 .card-body .list-unstyled li {
 	margin-bottom: 0.625rem;
+	font-weight: bold;
 }
 
 .cards-2 .card-body .price {
