@@ -720,11 +720,11 @@ select {
 
 .counter .counter-cell {
 	margin-bottom: 3rem;
-	color: #686fff;
+	color: #1d8b8b;
 }
 
 .counter .counter-cell.red {
-	color: #ff5574;
+	color: #f8a537;
 }
 
 .counter .purecounter {
