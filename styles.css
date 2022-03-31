@@ -419,7 +419,7 @@ select {
 .navbar .nav-item.dropdown.show .nav-link,
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link.active {
-	color: #6168ff;
+	color: #00405f;
 }
 
 /* Dropdown Menu */
@@ -456,7 +456,7 @@ select {
 
 .navbar .dropdown-item:hover {
 	background-color: #ffffff;
-	color: #6168ff;
+	color: #00405f;
 }
 
 .navbar .dropdown-divider {
@@ -1018,7 +1018,7 @@ select {
 }
 
 .form-1 .list-unstyled .fas {
-	color: #6168ff;
+	color: #00405f;
 }
 
 
@@ -1159,7 +1159,7 @@ select {
 }
 
 .ex-cards-1 .card .fa-stack-2x {
-	color: #6168ff;
+	color: #00405f;
 }
 
 .ex-cards-1 .card .fa-stack-1x {
