@@ -975,11 +975,11 @@ select {
 }
 
 .basic-2 h4 {
-	margin-bottom: 2rem;
-	color: #ffffff;
- 	font-weight: 300;
-        font-size: 3.5rem;
-        line-height: 4rem;
+    margin-bottom: 2rem;
+    color: #da2f4e;
+    font-weight: 600;
+    font-size: 3.5rem;
+    line-height: 4rem;
 }
 
 .basic-2 .p-large {
