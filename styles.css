@@ -695,7 +695,7 @@ select {
 /*********************/
 .counter {
 	padding-top: 5rem;
-	padding-bottom: 9.75rem;
+	padding-bottom: 1.75rem;
 }
 
 .counter .text-container {
@@ -749,7 +749,7 @@ select {
 /*     Projects     */
 /********************/
 .filter {
-	padding-top: 9.25rem;
+	padding-top: 4.25rem;
 	padding-bottom: 5.625rem;
 	text-align: center;
 }
