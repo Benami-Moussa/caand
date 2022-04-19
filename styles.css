@@ -92,7 +92,7 @@ h6 {
 }
 
 .p-large {
-	font-size: 1.125rem;
+	font-size: 1rem;
 	line-height: 1.75rem;
 }
 
@@ -1531,7 +1531,7 @@ select {
 	/* Header */
 	.header {
 		overflow: hidden;
-		padding-top: 18.25rem;
+		padding-top: 13.25rem;
 		padding-bottom: 11.5rem;
 	}
 
@@ -1540,11 +1540,11 @@ select {
 	}
 	
 	.header .image-container img {
-	    position: absolute;
-	    top: -87px;
-	    left: -32px;
-	    width: 817px;
-	    max-width: none;
+	position: absolute;
+	top: 8px;
+	left: 5px;
+	width: 786px;
+	max-width: none;
 	}
 	/* end of header */
 
